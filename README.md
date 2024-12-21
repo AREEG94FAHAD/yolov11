@@ -1,4 +1,3 @@
-> # Code will be availabe soon ..
 # [YOLOv11 Optimization for Efficient Resource Utilization (paper)](https://arxiv.org/abs/2412.14790)
 Hi, this is the repository related to the modified YOLOv11 version. Below is a summary of the paper's objective, the model's weights, and other explanations.
 
@@ -13,11 +12,11 @@ This simple program allows you to load label file and type, image size, for exam
 
 
 # 3- Models weights
--
+- [soon .. ](https://github.com/AREEG94FAHAD/yolov11/blob/main/model%20weights)
 - [YOLOv11-medium BCCD](https://github.com/AREEG94FAHAD/yolov11/blob/main/model%20weights)
 - [YOLOv11-large Underwater pipe](https://github.com/AREEG94FAHAD/yolov11/tree/main/model%20weights)
--
--
--
--
+- [soon .. ](https://github.com/AREEG94FAHAD/yolov11/blob/main/model%20weights)
+- [soon .. ](https://github.com/AREEG94FAHAD/yolov11/blob/main/model%20weights)
+- [soon .. ](https://github.com/AREEG94FAHAD/yolov11/blob/main/model%20weights)
+- [soon .. ](https://github.com/AREEG94FAHAD/yolov11/blob/main/model%20weights)
 
