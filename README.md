@@ -19,5 +19,17 @@ This simple program allows you to load label file and type, image size, for exam
 ![image](https://github.com/user-attachments/assets/cd451a5b-e8d1-4b73-af26-c9eb618d5cf4)
 
 
+## Citation
 
+If you find this work useful for your research, please consider citing the paper:
+
+```bibtex
+@article{rasheed2024yolov11,
+  title={YOLOv11 Optimization for Efficient Resource Utilization},
+  author={Areeg Fahad Rasheed and M. Zarkoosh},
+  journal={arXiv preprint arXiv:2412.14790},
+  year={2024}
+  dio={https://doi.org/10.48550/arXiv.2412.14790}
+}
+```
 
