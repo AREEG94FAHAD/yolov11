@@ -14,7 +14,8 @@ This simple program allows you to load label file and type, image size, for exam
 
 # 3- Models weights
 -
-- [YOLOv11-medium BCCD](https://github.com/AREEG94FAHAD/yolov11/blob/main/model%20weights/YOLOv11-medium_BCCD.pt)
+- [YOLOv11-medium BCCD](https://github.com/AREEG94FAHAD/yolov11/blob/main/model%20weights)
+- [YOLOv11-large Underwater pipe](https://github.com/AREEG94FAHAD/yolov11/tree/main/model%20weights)
 -
 -
 -
