@@ -9,6 +9,8 @@ Hi, this is the repository related to the modified YOLOv11 version. Below is a s
 
 # 2- Object size classifier
 This simple program allows you to load label file and type, image size, for example 640x640. Then, by clicking 'Run,' the program will process all object labels, compute their sizes, and classify them according to their size see paper Table 1. [The code](https://github.com/AREEG94FAHAD/yolov11/tree/main/object%20size%20classifier)
+![image](https://github.com/user-attachments/assets/cd451a5b-e8d1-4b73-af26-c9eb618d5cf4)
+
 
 # 3- Models weights
 -
