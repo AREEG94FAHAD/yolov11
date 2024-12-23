@@ -2,11 +2,11 @@
 Hi, this is the repository related to the modified YOLOv11 version. Below is a summary of the paper's objective, the model's weights, and other explanations.
 
 # 1- Models weights
-- [YOLOv11-small_weed_crops](https://github.com/AREEG94FAHAD/yolov11/blob/main/model%20weights)
-- [YOLOv11-medium BCCD](https://github.com/AREEG94FAHAD/yolov11/blob/main/model%20weights)
-- [YOLOv11-large Underwater pipe](https://github.com/AREEG94FAHAD/yolov11/tree/main/model%20weights)
+- [YOLOv11-small-weed-crops](https://github.com/AREEG94FAHAD/yolov11/blob/main/model%20weights)
+- [YOLOv11-medium-BCCD](https://github.com/AREEG94FAHAD/yolov11/blob/main/model%20weights)
+- [YOLOv11-large-Underwater pipe](https://github.com/AREEG94FAHAD/yolov11/tree/main/model%20weights)
 - [YOLOv11-sm-Aerial](https://github.com/AREEG94FAHAD/yolov11/blob/main/model%20weights)
-- [soon .. ](https://github.com/AREEG94FAHAD/yolov11/blob/main/model%20weights)
+- [YOLOv11-ml-Brain](https://github.com/AREEG94FAHAD/yolov11/blob/main/model%20weights)
 - [soon .. ](https://github.com/AREEG94FAHAD/yolov11/blob/main/model%20weights)
 
 # 2- Required packages
