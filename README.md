@@ -7,7 +7,7 @@ Hi, this is the repository related to the modified YOLOv11 version. Below is a s
 - [YOLOv11-large-Underwater pipe](https://github.com/AREEG94FAHAD/yolov11/tree/main/model%20weights)
 - [YOLOv11-sm-Aerial](https://github.com/AREEG94FAHAD/yolov11/blob/main/model%20weights)
 - [YOLOv11-ml-Brain](https://github.com/AREEG94FAHAD/yolov11/blob/main/model%20weights)
-- [soon .. ](https://github.com/AREEG94FAHAD/yolov11/blob/main/model%20weights)
+- [YOLOv11-sl-Face](https://github.com/AREEG94FAHAD/yolov11/blob/main/model%20weights)
 
 # 2- Required packages
 - ultralytics version 8.3.29 For YOLOv11
