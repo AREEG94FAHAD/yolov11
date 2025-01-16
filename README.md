@@ -33,3 +33,20 @@ If you find this work useful for your research, please consider citing the paper
 }
 ```
 
+and 
+
+```bibtex
+@article{rasheed2025optimized,
+  title={Optimized YOLOv8 for multi-scale object detection},
+  author={Rasheed, Areeg Fahad and Zarkoosh, M},
+  journal={Journal of Real-Time Image Processing},
+  volume={22},
+  number={1},
+  pages={6},
+  year={2025},
+  publisher={Springer}
+}
+```
+
+
+
